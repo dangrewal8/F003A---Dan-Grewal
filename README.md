@@ -5,5 +5,5 @@ Dan Grewal
 Coursework for F003A. Each assignment lives in its own folder.
 
 | Folder | Assignment |
-|--------|------------|
-| _(add rows as you go)_ | |
+|Dan Grewal - Assignment 1 - Boilerplate|Assignment 1|
+| | |
