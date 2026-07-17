@@ -6,3 +6,9 @@ venv/
 .idea/
 .vscode/
 
+# local AI config / voice setup — never submit these
+CLAUDE.md
+.claude/
+.cursor/
+.cursorrules
+
